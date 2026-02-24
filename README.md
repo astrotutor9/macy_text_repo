@@ -10,3 +10,4 @@ This is what it looks like in real life.
 
 ![A picture of the rover driving up the ramp whilst being videoed by the student.](rover_on_ramp.jpg)
 
+
